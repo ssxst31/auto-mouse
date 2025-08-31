@@ -3,7 +3,7 @@ import pyautogui
 import time
 
 positions = []
-num_positions = 5
+num_positions = 8
 
 print("="*50)
 print(f"{num_positions}개의 마우스 좌표를 기록합니다.")
